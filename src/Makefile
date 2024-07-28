@@ -1,3 +1,5 @@
+CXX=g++
+
 all: run_in_maze.out
 
 clean:
